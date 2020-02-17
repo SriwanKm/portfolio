@@ -1,0 +1,161 @@
+body {
+  background-image: url(../images/bg.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.head {
+  background-color: rgba(66, 48, 25, 0.671);
+  padding: 2px 156px 50px 156px;
+  margin-bottom: 2px;
+  text-align: center;
+  font-size: 2.5em;
+  box-shadow: rgba(0, 0, 0, 0.555) 0px 5px 5px;
+  color: rgb(253, 253, 253);
+  
+}
+
+.tab {
+  background-color:rgba(252, 68, 175, 0.616) ;
+  margin-top: 0;
+}
+
+
+span {
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: normal;
+  font-size: 60px;
+  color: rgb(252, 82, 181);
+
+}
+
+img {
+  width: 330px;
+  margin: 50px 5px 0px 5px;
+  box-shadow: rgb(238, 238, 238) 6px 6px 10px;
+}
+
+img:hover {
+  box-shadow: rgb(94, 93, 93) 6px 6px 10px;
+  opacity: 0.95;
+}
+
+h1 {
+  color: rgb(252, 68, 175);
+  text-shadow: azure 4px 3px 5px;
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: normal;
+  font-size: 40px;
+
+}
+
+p {
+  margin: 0 130px;
+  font-size: 30px;
+}
+
+.g1, .g2, .g3 {
+  margin-left: 8%;
+}
+
+.g1 {
+  padding: 0;
+  margin-top: 10px;
+  display: inline;
+  text-align: center;
+  font-size: 2em;
+  color: rgb(97, 73, 73);
+  
+}
+
+.g2-1{
+  height: 220px;
+}
+
+.g2{
+  margin-top: 10px;
+}
+.g3, .g4 {
+  margin-top: 10px;
+}
+
+.g4 {
+  color: rgb(97, 73, 73);
+
+}
+
+#location {
+  margin-left: 8%;
+}
+
+#contactUs {
+  margin: 0px 80px 50px 80px;
+
+}
+
+#mymenu {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+  font-size: 28px;
+}
+
+.locate {
+  color: rgb(45, 117, 184);
+  font-weight: bold;
+}
+
+.hours, .customer{
+  font-size: 35px;
+  color: #EF8E73;
+}
+
+.cont {
+  text-shadow: none;
+  padding-top: 25px;
+}
+
+.cust {
+  margin-bottom: 0;
+  padding-bottom: 15px;
+}
+
+#contactUs {
+  margin: 0;
+  background-color: #1B364F;
+  text-align: center;
+  color: rgb(190, 192, 192);
+  font-size: 12px;
+}
+
+#btt {
+  text-decoration: none;
+  float: right;
+  background-color: #F9C970;
+  top: 640;
+  position: sticky;
+  margin: 30px 10px 0 0;
+  border-radius: 100%;
+  padding: 10px;
+  font-size: 24px;
+}
+
+footer {
+  text-align: center;
+  background-color: rgb(252, 68, 175);
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  margin: 0;
+  padding: 2px 0 2px 0;
+  font-family: 'Allerta Stencil', sans-serif;
+}
